@@ -1,0 +1,6 @@
+faker==25.8.0
+pandas==2.2.2
+SQLAlchemy==2.0.34
+python-dotenv==1.0.1
+elasticsearch==8.15.1
+urllib3>=1.26.0
